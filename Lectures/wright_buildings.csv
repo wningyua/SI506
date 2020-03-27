@@ -1,0 +1,37 @@
+residence,room,story,length_ft,length_in,width_ft,width_in
+Fallingwater,Dining/Living Room,First floor,48,0,33,8
+Fallingwater,Kitchen,First floor,15,9,12,0
+Fallingwater,"Servant's Sitting Room",First floor,11,5,9,4
+Fallingwater,Master Bedroom,Second floor,17,11,16,9
+Fallingwater,Master Bathroom (Shower),Second floor,,,,
+Fallingwater,Dressing Room,Second floor,17,0,11,8
+Fallingwater,Dressing Room Bathroom,Second floor,,,,
+Fallingwater,Guest Bedroom,Second floor,15,4,12,0
+Fallingwater,Guest Bathroom,Second floor,,,,
+Fallingwater,Study,Third floor,17,0,11,8
+Fallingwater,Bathroom,Third floor,,,,
+Fallingwater,Sleeping Alcove,Third floor,8,1,6,8
+Fallingwater,Boiler Room,Basement,8,10,8,5
+Fallingwater,Wine Cellar,Basement,,,,
+Fallingwater,Bathroom,Basement,3,4,5,6
+Meyer May House,Living Room,First floor,,,,
+Meyer May House,Drawing Room,First floor,,,,
+Meyer May House,Kitchen,First floor,,,,
+Meyer May House,Pantry,First floor,,,,
+Meyer May House,Gallery,First floor,,,,
+Meyer May House,Bedroom 1,Second floor,,,,
+Meyer May House,Bedroom 1 Bathroom,Second floor,,,,
+Meyer May House,Morning Room,Second floor,,,,
+Meyer May House,Bedroom 2,Second floor,,,,
+Meyer May House,Bedroom 3,Second floor,,,,
+Meyer May House,Bathroom (shared),Second floor,,,,
+Meyer May House,"Servant's Room",Second floor,,,,
+Meyer May House,Servant's Bathroom,Second floor,,,,
+Meyer May House,Store Room,Second floor,,,,
+Palmer House,Dining/Living Room,First floor,,,,
+Palmer House,Kitchen/Workspace,First floor,,,,
+Palmer House,Master Bedroom,First floor,,,,
+Palmer House,Master Bedroom Bathroom,First floor,,,,
+Palmer House,Bedroom 2,First floor,,,,
+Palmer House,Bedroom 3,First floor,,,,
+Palmer House,Bathroom,First floor,,,,
