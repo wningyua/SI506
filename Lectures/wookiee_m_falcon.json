@@ -1,0 +1,41 @@
+{
+    "name": "Millennium Falcon",
+    "model": "YT-1300f light freighter",
+    "registration_number": "YT 492727ZED",
+    "dimensions": {
+      "unit_of_measure": "meters",
+      "length": 34.37,
+      "width": 25.61,
+      "height": 8.27
+    },
+    "hull": "Durasteel shell with Duralloy plating and military-grade armor",
+    "propulsion": {
+      "power_plant": "Quadex power core",
+      "engine": {
+        "type": "Girodyne SRB42 sublight engine",
+        "total": 2,
+        "modified": true
+      }
+    },
+    "shielding": [
+      "Torplex fore deflector shield generator",
+      "Novaldex stasis-type shield generator (port and starboard projectors)",
+      "Kuat Drive Yards aft deflector shield generator",
+      "Nordoxicon-38 anti-concussion field generator",
+      "Navigational deflector system"
+    ],
+    "armament": [{
+        "type": "Corellian Engineering Corporation AG-2G quad laser cannon",
+        "total": 2
+      },
+      {
+        "type": "Arakyd ST2 concussion missile tube",
+        "total": 2,
+        "missles_carried": 8
+      },
+      {
+        "type": "BlasTech Ax-108 Ground Buzzer surface-defense blaster cannon",
+        "total": 1
+      }
+    ]
+  }
